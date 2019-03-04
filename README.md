@@ -12,13 +12,13 @@ An alpha is basically a mathematical formula that assigns your investment money 
 So, in this repository we will be assigning money to our stocks in proportion to our bucket of stocks in proportion to the lot size of one option of that stock.
 
 Example:
-Ticker | Lot Size | Weight in portfolio 
-HINDALCO| 2000 | 0.2
-BAJAJFINSV | 3000|
-ITC | 1000 | 0.1
-TITAN | 2000 | 0.2
-TECHM | 2000 | 0.2
-
+| Ticker | Lot Size | Weight in portfolio |
+| ------------- |---------| -----|
+| HINDALCO| 2000 | 0.2 |
+| BAJAJFINSV | 3000| 0.1 |
+| ITC | 1000 | 0.1 |
+| TITAN | 2000 | 0.2 |
+| TECHM | 2000 | 0.2 |
 
 
 
